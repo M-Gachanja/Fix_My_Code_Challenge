@@ -18,4 +18,7 @@ void free_dlistint(dlistint_t *head)
 		free(node);
 	}
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e

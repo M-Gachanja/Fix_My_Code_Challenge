@@ -1,6 +1,10 @@
 #!/usr/bin/node
 /*
     Print a square with the character #
+<<<<<<< HEAD
+=======
+
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e
     The size of the square must be the first argument 
     of the program.
 */
@@ -21,4 +25,7 @@ for (let i = 0 ; i < size ; i ++) {
     }
     process.stdout.write("\n");
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e

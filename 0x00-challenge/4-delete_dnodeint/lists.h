@@ -10,7 +10,11 @@
  * @next: points to the next node
  *
  * Description: doubly linked list node structure
+<<<<<<< HEAD
  * for Holberton project
+=======
+ * for ALX project
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e
  */
 typedef struct dlistint_s
 {
@@ -24,5 +28,9 @@ dlistint_t *add_dnodeint_end(dlistint_t **head, const int n);
 int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
 void free_dlistint(dlistint_t *head);
 
+<<<<<<< HEAD
 #endif
 
+=======
+#endif
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e

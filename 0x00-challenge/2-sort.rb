@@ -29,4 +29,7 @@ ARGV.each do |arg|
 end
 
 puts result
+<<<<<<< HEAD
 
+=======
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e

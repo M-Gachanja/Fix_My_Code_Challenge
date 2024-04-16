@@ -51,4 +51,7 @@ int delete_dnodeint_at_index(dlistint_t **head, unsigned int index)
 	}
 	return (1);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e

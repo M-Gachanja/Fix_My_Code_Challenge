@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 """ FizzBuzz
+<<<<<<< HEAD
     Change of logic if (i % 3) == 0 and (i % 5) == 0:
+=======
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e
 """
 import sys
 
@@ -8,7 +11,11 @@ import sys
 def fizzbuzz(n):
     """
     FizzBuzz function prints numbers from 1 to n separated by a space.
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e
     - For multiples of three print "Fizz" instead of the number and for
       multiples of five print "Buzz".
     - For numbers which are multiples of both three and five print "FizzBuzz".
@@ -38,4 +45,7 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
+<<<<<<< HEAD
 
+=======
+>>>>>>> a00bbf8ca8f24f5a887b7de4e636641549d5e98e
